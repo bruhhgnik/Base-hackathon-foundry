@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source:*)",
+      "Bash(forge init:*)",
+      "Bash(forge test:*)",
+      "Bash(find:*)",
+      "Bash(rm:*)",
+      "Bash(pnpm install:*)",
+      "Bash(pnpm run dev)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
